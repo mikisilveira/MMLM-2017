@@ -2,14 +2,14 @@
 Predict the 2017 NCAA Basketball Tournament
 
 Introduction
-============
+------------
 
 The objective is to predict probabilities for every possible matchup in the past 4 NCAA tournaments (2013-2016).
 This is my first project using a programming language to manipulate data. I'd never programmed on a professional project before, so in these 4 days I tried really hard to learn and complete this task. 
 I'm coming from "Digital Analysis" where I've worked with Google Analytics, Adobe Analytics, adwords, website and url tracking… and now my goal is move forward to become a Data Analyst in the future, who works with programming languages and tools to analyse data. 
 
 Difficulties on the way
-==========================
+-----------------------
 
 My knowledge and my experience in R are very limited, all this is from what I've learned at the Datacamp "Introduction to R", "Exploratory Data Analysis" and in some searches at google/stackoverflow.  So I know that my codes are far from perfect, but I needed to show my effort to learn and put the things on.
 To understand the project. I know nothing about Basketball, so I needed to search about this sport and about the specific "NCAA Basketball Tournament" and their rules. E.g. What are Seeds? How it could impact the final results? 
@@ -82,3 +82,4 @@ Min possible prediction: 0.5 - 0.25 - 0.25 = 0.0
 Prediction output sample
 
 	
+
