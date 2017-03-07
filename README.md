@@ -1,6 +1,8 @@
 # MMLM-2017
 Predict the 2017 NCAA Basketball Tournament
 
+Link for the challenge: https://www.kaggle.com/c/march-machine-learning-mania-2017
+
 Introduction
 ------------
 
@@ -57,17 +59,17 @@ Results from hypothesis
 
 * *Seeds difference*
 
-		GRAFICO 1
+![Seeds difference - Bars Chart][3]
 
-		GRAFICO 2
+![Seeds difference - Pie Chart][4]
 
 *Conclusion:* From a total of 2050 games played from 1985 to 2016, 70% of the games had a winner with a better (smaller) seed, comparing to the loser team.
 
 * *Win rate difference*
 		
-		GRAFICO 1
+![Win Rate difference - Bars Chart][5]
 
-		GRAFICO 2
+![Win Rate difference - Pie Chart][6]
 
 *Conclusion:* From a total of 2050 games played from 1985 to 2016, 73% of the games had a winner with a better (higher) win rate, comparing to the loser team.
 
@@ -91,9 +93,13 @@ Min possible prediction: 0.5 - 0.25 - 0.25 = 0.0
 Prediction output sample
 ------------------------
 
-![Prediction output sample][3]
+![Prediction output sample][7]
 
 
   [1]: https://cloud.githubusercontent.com/assets/4197248/23638280/9ebaa90e-02ae-11e7-8458-6e92d89485f5.png
   [2]: https://cloud.githubusercontent.com/assets/4197248/23638281/9ebcd3f0-02ae-11e7-8df8-b38ee80b673f.png
-  [3]: https://cloud.githubusercontent.com/assets/4197248/23638279/9eb96fda-02ae-11e7-8236-14ed5532eda8.png
+  [3]: https://cloud.githubusercontent.com/assets/4197248/23638402/84b5e96e-02af-11e7-9943-8b09de129639.jpeg
+  [4]: https://cloud.githubusercontent.com/assets/4197248/23638403/84b5e13a-02af-11e7-85ab-75725bb4efbe.jpeg
+  [5]: https://cloud.githubusercontent.com/assets/4197248/23638405/84b8037a-02af-11e7-81f5-8feafac5d64d.jpeg
+  [6]: https://cloud.githubusercontent.com/assets/4197248/23638404/84b7a20e-02af-11e7-9355-6fbb95e3a896.jpeg
+  [7]: https://cloud.githubusercontent.com/assets/4197248/23638279/9eb96fda-02ae-11e7-8236-14ed5532eda8.png
