@@ -15,7 +15,6 @@ generateReportWithWinRateDifference <- function (row) {
 
  winRateDifference <- as.numeric(WwinRate) - as.numeric(LwinRate)
 
- print(paste(as.numeric(WwinRate), as.numeric(LwinRate), winRateDifference, sep=', '))
  if (winRateDifference >= 0) {
   totalPositiveWinRateDiff <<- totalPositiveWinRateDiff + 1
  } else {
